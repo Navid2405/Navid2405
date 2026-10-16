@@ -10,15 +10,15 @@ Me interesa construir aplicaciones seguras, mantenibles y escalables, aplicando 
 
 ## 🧑‍💻 ¿Quién soy y qué hago?
 
-- 💻 Desarrollo aplicaciones web, servicios backend y aplicaciones móviles.
-- ⚙️ Diseño e implemento API REST para la comunicación entre aplicaciones.
-- 🗄️ Trabajo con bases de datos relacionales y gestión de información.
-- 🏗️ Aplico principios de arquitectura de software y separación de responsabilidades.
-- 🎨 Desarrollo interfaces web con Angular y TypeScript.
-- 📱 Exploro el desarrollo de aplicaciones móviles con Flutter.
-- 🤖 Exploro soluciones de inteligencia artificial para el procesamiento y análisis de documentos.
-- 🔐 Me interesa la ciberseguridad y el desarrollo seguro de aplicaciones.
-- 🚀 Construyo proyectos para resolver problemas reales y fortalecer mis habilidades técnicas.
+-  Desarrollo aplicaciones web, servicios backend y aplicaciones móviles.
+-  Diseño e implemento API REST para la comunicación entre aplicaciones.
+-  Trabajo con bases de datos relacionales y gestión de información.
+-  Aplico principios de arquitectura de software y separación de responsabilidades.
+-  Desarrollo interfaces web con Angular y TypeScript.
+-  Exploro el desarrollo de aplicaciones móviles con Flutter.
+-  Exploro soluciones de inteligencia artificial para el procesamiento y análisis de documentos.
+-  Me interesa la ciberseguridad y el desarrollo seguro de aplicaciones.
+-  Construyo proyectos para resolver problemas reales y fortalecer mis habilidades técnicas.
 
 ## 🛠️ Mi stack tecnológico
 
@@ -70,12 +70,12 @@ Proyecto de análisis de documentos que explora el uso de inteligencia artificia
 
 ## 🎯 Actualmente profundizando en
 
-- 🏗️ Arquitectura de software y diseño de sistemas backend mantenibles.
-- 🌐 Desarrollo web con Angular y TypeScript.
-- 📱 Desarrollo multiplataforma con Flutter.
-- 🤖 Inteligencia artificial, procesamiento de documentos y sistemas RAG.
-- 🔐 Ciberseguridad y desarrollo seguro de aplicaciones.
-- ☁️ Despliegue de aplicaciones y herramientas de infraestructura.
+-  Arquitectura de software y diseño de sistemas backend mantenibles.
+-  Desarrollo web con Angular y TypeScript.
+-  Desarrollo multiplataforma con Flutter.
+-  Inteligencia artificial, procesamiento de documentos y sistemas RAG.
+-  Ciberseguridad y desarrollo seguro de aplicaciones.
+-  Despliegue de aplicaciones y herramientas de infraestructura.
 
 ## 🤝 Conectemos
 
